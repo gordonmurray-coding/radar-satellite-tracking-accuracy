@@ -1,0 +1,29 @@
+# MATLAB
+*.asv
+*.m~
+*.mlx.autosave
+*.slxc
+*.slprj/
+*.mex*
+# *.mat  <-- tracked by LFS (do NOT ignore)
+# *.fig  <-- tracked by LFS (do NOT ignore)
+codegen/
+derived/
+resources/registry/
+.parula
+*.autosave
+
+# Logs, caches
+*.log
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+*.iml
+
+# Results (logs only; images & binaries go via LFS)
+results/*.log
