@@ -30,6 +30,9 @@ Runs the **original residual dashboard script** unchanged and saves the output f
    ```
    results/residual_accuracy_dashboard.png
    ```
+## Example Output
+
+![Residual Accuracy Dashboard](results/residual_accuracy_dashboard.png)
 
 ## Repository Structure
 
