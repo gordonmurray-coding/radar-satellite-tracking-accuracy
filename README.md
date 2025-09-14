@@ -53,6 +53,13 @@ Runs the **original residual dashboard script** unchanged and saves the output f
 - MATLAB **R2022a+**
 - Example CSV input (`PC_RADAR_OBS.csv`)
 
-## License
+---
 
-This project is licensed under the [MIT License](./LICENSE).
+### 🤝 Contributing
+Issues and PRs are welcome. Please open an issue to discuss significant changes.
+
+### 📜 License
+This project is licensed under the MIT License — see [LICENSE](./LICENSE) for details.
+
+### ⭐ Acknowledgments
+If this saved you time, consider giving the repo a star!
